@@ -65,13 +65,13 @@ h1 {
     font-family: 'Times New Roman', Times, serif;
     color: whitesmoke;
     padding: 5px;
-    font-size: 30px;
+    font-size: 20px;
 }
 h2 {
     text-align: center;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Times New Roman', Times, serif;
-    padding: 3px;
+    padding: 5px;
 }
 p {
     font-family: 'Times New Roman', Times, serif;
@@ -79,10 +79,10 @@ p {
 }
 .pleft {
     color: whitesmoke;
-    font-size: 22px;
+    font-size: 15px;
 }
 .pright{
-    font-size: 25px;
+    font-size: 17px;
     color:rgb(68, 68, 63);
 }
 .h2left{
@@ -92,6 +92,9 @@ p {
 .h2right{
     background: whitesmoke;
     color: rgb(91, 167, 209);
+}
+.image {
+    max-width: 100%;
 }
 
           
